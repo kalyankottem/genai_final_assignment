@@ -182,7 +182,3 @@ The system generates:
 - Risk analysis reports
 
 ---
-
-# AUTHORS
-
-MBA Business Analytics Academic Project
